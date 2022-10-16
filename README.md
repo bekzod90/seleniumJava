@@ -66,7 +66,6 @@ A web hook has been setup with Travis CI for all Push and Pull Requests.
  
 A web hook has also been setup with Github Actions, and Selenium Tests will execute with [testcontainers](https://www.testcontainers.org/) during CI.  
  
- 
 Selenium WebDriver
 ------------
 This project is configured to use Firefox & Chrome WebDriver's.  The default is set to Chrome.  The WebDriver's added to this project will only work on macos.  
