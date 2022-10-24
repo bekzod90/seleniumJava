@@ -50,7 +50,6 @@ Page object model is used in this framework.  Each web page will have its own ja
 Test web page
 -----
     http://the-internet.herokuapp.com/      
-
    
 Accessibility Testing
 ------------
