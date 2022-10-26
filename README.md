@@ -79,7 +79,6 @@ you must install docker, and also have docker running before test execution.
 
 for more information: https://www.testcontainers.org/
 
-
 Selenium Grid
 ------------
 Tests in this solution can also run on the Selenium Grid.  Selenium Grid is hosted by www.gridlastic.com.
