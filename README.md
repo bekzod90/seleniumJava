@@ -71,7 +71,6 @@ Selenium WebDriver
 ------------
 This project is configured to use Firefox & Chrome WebDriver's.  The default is set to Chrome.  The WebDriver's added to this project will only work on macos.  
 
-
 Testcontainers
 ------------
 Tests "SeleniumContainerTest" will execute Selenium test in a docker container.  In order to execute this test using a testcontainer
