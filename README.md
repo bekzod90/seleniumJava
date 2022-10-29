@@ -29,7 +29,7 @@ Contains class files for each web page being tested.  Page element definitions /
 * SeleniumExtensions:  
 Contains helper function to instantiate WebDriver to the appropriate browser type.  WebDriverExtensions class contains helper functions to handle driver waits for page elements conditions. 
 
-* TestHelper:  
+* TestHelper: 
     - ConfigSettings: contains helper functions for reading config.properties.  
     - IoLibrary: contains helper functions used across tests.  
     - LoggingLibrary: contains custom functions for comparing actual to expected conditions.  
