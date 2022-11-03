@@ -86,6 +86,6 @@ Tests in this solution can also run on the Selenium Grid.  Selenium Grid is host
 
 Questions / Contact / Contribute
 ------------
-Feel free to fork this repo, add to it, and create a pull request if you like to contribute.  
+Feel free to fork this repo, add to it, and create a pull request if you like to contribute..  
 
 If you have any questions, you can contact me via email: `sdet.testautomation@gmail.com`
